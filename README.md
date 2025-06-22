@@ -1,0 +1,1 @@
+This project analyzes 2025 LinkedIn Data Science job postings to uncover trends, skill requirements, salary distributions, and job title categorizations. Using Power BI, we process and visualize job market data to help job seekers, recruiters, and businesses understand the evolving landscape of data science roles.
